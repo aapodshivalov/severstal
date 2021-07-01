@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/severstal/static/css/main.8b2da933.chunk.css",
+    "main.js": "/severstal/static/js/main.47860b20.chunk.js",
+    "main.js.map": "/severstal/static/js/main.47860b20.chunk.js.map",
+    "runtime-main.js": "/severstal/static/js/runtime-main.9405f34f.js",
+    "runtime-main.js.map": "/severstal/static/js/runtime-main.9405f34f.js.map",
+    "static/js/2.8deaacec.chunk.js": "/severstal/static/js/2.8deaacec.chunk.js",
+    "static/js/2.8deaacec.chunk.js.map": "/severstal/static/js/2.8deaacec.chunk.js.map",
+    "static/js/3.543ab813.chunk.js": "/severstal/static/js/3.543ab813.chunk.js",
+    "static/js/3.543ab813.chunk.js.map": "/severstal/static/js/3.543ab813.chunk.js.map",
+    "index.html": "/severstal/index.html",
+    "static/css/main.8b2da933.chunk.css.map": "/severstal/static/css/main.8b2da933.chunk.css.map",
+    "static/js/2.8deaacec.chunk.js.LICENSE.txt": "/severstal/static/js/2.8deaacec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9405f34f.js",
+    "static/js/2.8deaacec.chunk.js",
+    "static/css/main.8b2da933.chunk.css",
+    "static/js/main.47860b20.chunk.js"
+  ]
+}
